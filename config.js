@@ -161,16 +161,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Down Spud',
-					link: 'https://down.spudalicio.us',
+					name: '/r/idaho',
+					link: 'https://www.reddit.com/r/Idaho/',
 				},
 				{
 					name: 'Instagram',
 					link: 'https://www.instagram.com',
 				},
 				{
-					name: 'Facebook',
-					link: 'https://www.facebook.com',
+					name: '/r/boise',
+					link: 'https://www.reddit.com/r/boise/',
 				},
 				{
 					name: 'Zillow',
