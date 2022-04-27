@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Brent',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
