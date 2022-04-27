@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Maps',
+			icon: 'map',
+			link: 'https://www.google.com/maps',
 		},
 		{
 			id: '5',
