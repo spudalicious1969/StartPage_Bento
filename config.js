@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spud Home',
-					link: 'https://spudalicio.us',
+					name: 'Hulu',
+					link: 'https://www.hulu.com/hub/home',
 				},
 				{
-					name: 'Useful Spud',
-					link: 'https://useful.spudalicio.us',
+					name: 'Netflix',
+					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'Fun Spud',
-					link: 'https://fun.spudalicio.us',
+					name: 'Facebook',
+					link: 'https://www.facebook.com/',
 				},
 				{
-					name: 'Book Spud',
-					link: 'https://book.spudalicio.us/#library_id=books&panel=book_list',
+					name: 'Prime Video',
+					link: 'https://www.amazon.com/Prime-Video/b?node=2676882011',
 				},
 			],
 		},
