@@ -139,12 +139,12 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Hulu',
-					link: 'https://www.hulu.com/hub/home',
+					name: 'FBM - Furniture',
+					link: 'https://www.facebook.com/marketplace/113262818684267/furniture',
 				},
 				{
-					name: 'Netflix',
-					link: 'https://www.netflix.com/browse',
+					name: 'FBM - Free',
+					link: 'https://www.facebook.com/marketplace/113262818684267/free',
 				},
 				{
 					name: 'Facebook',
