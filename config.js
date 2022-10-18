@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'FBM - Furniture',
-					link: 'https://www.facebook.com/marketplace/113262818684267/furniture',
+					name: 'Useful',
+					link: 'https://useful.spudalicio.us/links',
 				},
 				{
 					name: 'FBM - Free',
