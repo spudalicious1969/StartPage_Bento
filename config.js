@@ -143,8 +143,8 @@ const CONFIG = {
 					link: 'https://useful.spudalicio.us/links',
 				},
 				{
-					name: 'FBM - Free',
-					link: 'https://www.facebook.com/marketplace/113262818684267/free',
+					name: 'If Spud',
+					link: 'https://if.spudalicio.us',
 				},
 				{
 					name: 'Facebook',
