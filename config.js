@@ -148,7 +148,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Facebook',
-					link: 'https://www.facebook.com/',
+					link: 'https://www.facebook.com/marketplace',
 				},
 				{
 					name: 'Prime Video',
