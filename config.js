@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Useful',
-					link: 'https://useful.spudalicio.us/links',
+					name: 'Books',
+					link: 'https://book.spudalicio.us',
 				},
 				{
 					name: 'If Spud',
