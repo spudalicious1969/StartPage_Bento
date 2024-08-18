@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://www.facebook.com/marketplace',
 				},
 				{
-					name: 'Prime Video',
-					link: 'https://www.amazon.com/Prime-Video/b?node=2676882011',
+					name: 'Nerd',
+					link: 'https://nerd.spudalicio.us',
 				},
 			],
 		},
